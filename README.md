@@ -16,5 +16,6 @@ How it works:
 3. Save.
 4. Add the desired function.
 5. Click "Edit LED" and select the LEDs to be assigned to the function.
+
 IMPORTANT:
 When selecting LED RPM, the plugin remembers the order in which the LEDs were clicked, and the LEDs will light up in that order.
